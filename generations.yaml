@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Infiniti_Q45"
+
 generations:
   - name: "First Generation (G50)"
     start_year: 1990
